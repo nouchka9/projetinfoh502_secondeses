@@ -14,12 +14,12 @@ BallShadowPCF est un jeu 3D développé dans le cadre du cours INFOH502 à l'Uni
 - Gestion des textures
 - Caméra contrôlable avec souris et clavier
 - Skybox environnemental
+- Système de score
+- Physique de rebond de la balle
 - Interface ImGui pour les paramètres
 - Éclairage Phong avec spéculaire
 
 🚧 **En cours de développement :**
-- Physique de rebond de la balle
-- Système de score
 - Animations avancées
 
 ## Technologies utilisées
